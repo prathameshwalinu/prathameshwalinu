@@ -15,7 +15,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/prathameshwali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pranav-arun-kengale/" height="30" width="40" /></a>
-
 <a href="https://www.instagram.com/prathameshwali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p.r.a.n.a.v.k" height="30" width="40" /></a>
 </p>
 
@@ -67,6 +66,6 @@
             </div>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshwalinu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pranavakengale" width=450 /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathameshwalinu&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="prathameshwalinu" width=450 /></p>
 <br><br><br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshwalinu&theme=tokyonight" alt="pranavakengale" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshwalinu&theme=tokyonight" alt="prathameshwalinu" /></p>
