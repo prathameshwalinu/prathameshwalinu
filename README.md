@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Prathamesh Wali
 
 <!--
 **prathameshwalinu/prathameshwalinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,15 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- # Prathamesh Wali - Portfolio
 
-## Introduction
 
-Hi there 👋, I'm Prathamesh Wali, a passionate problem solver with a strong interest in Software Development, Data Engineering, Data Science & Machine Learning.
-
-## Header
-
-![Header Image](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+I'm Prathamesh Wali, a passionate problem solver with a strong interest in Software Development, Data Engineering, Data Science & Machine Learning.
 
 ## About Me
 
@@ -104,8 +98,4 @@ Hi there 👋, I'm Prathamesh Wali, a passionate problem solver with a strong in
 ## Contact Section
 
 Feel free to reach out to me at [waliprathama@gmail.com](mailto:waliprathama@gmail.com).
-
----
-
-*Note: You can customize the content, formatting, and styling further based on your preferences.*
 
