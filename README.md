@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Data Science & Data Learning**
+- 💬 Ask me about **Data Science & Data Engineering**
 
 - 📫 How to reach me **waliprathama@gmail.com**
 
